@@ -1,2 +1,2 @@
 # tom-go
-My custom utility library for the Go programming language
+My own utility library for the Go programming language
